@@ -7,6 +7,9 @@ body {
     height: 400px;
     border-radius: 20px;
 }
+.col-md-8{
+    padding-top: 23px;
+}
 .responsive {
     max-width: 150%;
     height: auto;
